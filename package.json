@@ -1,6 +1,0 @@
-{
-    "scripts": {
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
-    }
-}
